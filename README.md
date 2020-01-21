@@ -1,5 +1,5 @@
 # NewWorld_SDTF
-R scripts to conduct analyses in "The phylogenetic diversity and structure of the seasonally dry forests in the Neotropics" by Arango et al. Submitted to Journal of Biogeography
+R scripts to conduct analyses in "The phylogenetic diversity and structure of the seasonally dry forests in the Neotropics" by Arango et al. Submitted to Journal of Biogeography (JBI-20-0019)
 
 File description: 
 
