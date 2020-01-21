@@ -1,5 +1,5 @@
 # NewWorld_SDTF
-R scripts to conduct analyses in "The phylogenetic diversity and structure of the seasonally dry forests in the Neotropics" by Arango et al. Submitted to Journal of Biogeography (JBI-20-0019)
+R scripts to conduct analyses in the manuscript: "The phylogenetic diversity and structure of the seasonally dry forests in the Neotropics" by Arango et al. Submitted to Journal of Biogeography (JBI-20-0019)
 
 File description: 
 
@@ -13,3 +13,5 @@ File description:
 **Biogeo_sp.csv**: All the woody species present in the DRYFLOR inventories used in our study. The "A_N column" represents the accepted names (by 2016) of the species according to APG IV.
 
 **ALLMBMOD.txt**: A modified version of the Smith & Brown (2018) megaphylogeny with Magallón (2015) and tree of life backbones. The modifications were made to some species that were misspelled. References cited in the main text.
+
+Contact: fabricio.villalobos@gmail.com
