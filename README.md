@@ -14,4 +14,4 @@ File description:
 
 **ALLMBMOD.txt**: A modified version of the Smith & Brown (2018) megaphylogeny with Magallón (2015) and tree of life backbones. The modifications were made to some species that were misspelled. References cited in the main text.
 
-Contact: fabricio.villalobos@gmail.com
+Contact: fabricio.villalobos@gmail.com, axlarango@gmail.com
